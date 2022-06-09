@@ -1,5 +1,5 @@
 
-# project_name Change Log
+# fastapi-website-test Change Log
 
 All notable changes to this project will be documented in this file.
 
